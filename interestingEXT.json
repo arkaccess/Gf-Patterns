@@ -1,5 +1,5 @@
 {
-    "flags": "-riE",
+    "flags": "-iE",
      "patterns": [
 
 "\\.action",
