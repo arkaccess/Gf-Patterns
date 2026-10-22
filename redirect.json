@@ -1,5 +1,5 @@
 {
-    "flags": "-HnriE",
+    "flags": "-iE",
      "patterns": [
 "Lmage_url=",
 "Open=",

@@ -1,6 +1,6 @@
 
 {
-"flags": "-HnriE",
+"flags": "-iE",
 "patterns": [
 
         "template=",
